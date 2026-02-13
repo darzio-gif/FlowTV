@@ -1,10 +1,10 @@
 {
   "channels": [
     {
-      "name": "MBC 2",
+      "name": "Zee Alwan",
       "category": "Entertainment",
       "thumbnail": "https://example.com/thumbs/mbc1.png",
-      "url": "https://azrogo.com/local/drPlayer/?id=mbc2"
+      "url": "https://vsd123.okcdn.ru/hls/9681407117944.m3u8/sig/wb6aHQqqJd0/expires/1771076517854/srcIp/154.249.231.121/urls/185.226.55.84/clientType/0/srcAg/CHROME/mid/11157140872824/9681407117944_low/index.m3u8"
     },
     {
       "name": "beIN Sports 1",
