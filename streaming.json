@@ -1,1 +1,22 @@
-ssaa
+{
+  "channels": [
+    {
+      "name": "MBC 1",
+      "category": "Entertainment",
+      "thumbnail": "https://example.com/thumbs/mbc1.png",
+      "url": "https://example.com/live/mbc1.m3u8"
+    },
+    {
+      "name": "beIN Sports 1",
+      "category": "Sports",
+      "thumbnail": "https://example.com/thumbs/bein1.png",
+      "url": "https://example.com/live/bein1.m3u8"
+    },
+    {
+      "name": "Nat Geo",
+      "category": "Documentary",
+      "thumbnail": "https://example.com/thumbs/natgeo.png",
+      "url": "https://example.com/live/natgeo.m3u8"
+    }
+  ]
+}
