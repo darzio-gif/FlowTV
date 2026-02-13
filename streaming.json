@@ -1,10 +1,10 @@
 {
   "channels": [
     {
-      "name": "MBC 1",
+      "name": "MBC 2",
       "category": "Entertainment",
       "thumbnail": "https://example.com/thumbs/mbc1.png",
-      "url": "https://example.com/live/mbc1.m3u8"
+      "url": "https://azrogo.com/local/drPlayer/?id=mbc2"
     },
     {
       "name": "beIN Sports 1",
