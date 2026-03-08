@@ -2,11 +2,6 @@
   "m3u_url": "http://cyber4k.sytes.net:8080/get.php?username=Flow545&password=Flow123&type=m3u_plus&output=hls",
   "version": "1.0",
 
-  "extra_m3u": [
-    "http://example.com/list1.m3u",
-    "http://example.com/list2.m3u8"
-  ],
-
   "channels": [
     {
       "name": "Zee Alwan",
