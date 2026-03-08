@@ -9,10 +9,10 @@
 
   "channels": [
     {
-      "name": "اسم القناة",
-      "stream_url": "http://example.com/stream.m3u8",
-      "logo_url": "https://example.com/logo.png",
-      "group": "اسم المجموعة"
+      "name": "Zee Alwan",
+      "stream_url": "https://vsd115.okcdn.ru/hls/9681407117944.m3u8/sig/XmmhsNZX9vk/expires/1773056604105/srcIp/154.240.44.157/urls/185.226.53.64/clientType/0/srcAg/CHROME/mid/11157140872824/9681407117944_low/index.m3u8",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/ar/3/3b/Zee_Alwan_logo.png",
+      "group": "ZeeLive"
     }
   ]
 }
