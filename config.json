@@ -5,7 +5,7 @@
   "channels": [
     {
       "name": "Zee Alwan",
-      "stream_url": "https://vsd115.okcdn.ru/hls/9681407117944.m3u8/sig/XmmhsNZX9vk/expires/1773056604105/srcIp/154.240.44.157/urls/185.226.53.64/clientType/0/srcAg/CHROME/mid/11157140872824/9681407117944_low/index.m3u8",
+      "stream_url": "https://vsd256.okcdn.ru/hls/9681407117944.m3u8/sig/CfyRW2TmkR8/expires/1773338611295/srcIp/105.97.251.214/urls/185.226.55.84/clientType/0/srcAg/CHROME/mid/11157140872824/9681407117944_high/index.m3u8",
       "logo_url": "https://upload.wikimedia.org/wikipedia/ar/3/3b/Zee_Alwan_logo.png",
       "group": "ZeeLive"
     }
