@@ -1,13 +1,4 @@
 {
   "m3u_url": "http://m3u.ch/pl/c654fe5fc9a8c9949cff4b2fc4b2a9d3_295dbb6c40b3541c5ff8a51d1640ad47.m3u",
   "version": "1.0",
-
-  "channels": [
-    {
-      "name": "Zee Alwan",
-      "stream_url": "https://vsd256.okcdn.ru/hls/9681407117944.m3u8/sig/CfyRW2TmkR8/expires/1773338611295/srcIp/105.97.251.214/urls/185.226.55.84/clientType/0/srcAg/CHROME/mid/11157140872824/9681407117944_high/index.m3u8",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/ar/3/3b/Zee_Alwan_logo.png",
-      "group": "ZeeLive"
-    }
-  ]
 }
