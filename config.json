@@ -1,4 +1,4 @@
 {
-  "m3u_url": "http://bouygues-cdn.r1v.us:8080/get.php?username=d49dc02ec79b&password=k5cfhnm1&type=m3u_plus&output=ts",
+  "m3u_url": "http://bouygues-cdn.r1v.us:8080/get.php?username=d49dc02ec79b&password=k5cfhnm1&type=m3u_plus&output=m3u8",
   "version": "1.0"
 }
